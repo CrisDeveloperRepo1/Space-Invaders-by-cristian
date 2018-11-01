@@ -1,0 +1,3 @@
+# Space-Invaders-by-cristian
+Este proyecto ademas de que me gusto mucho hacerlo tambien lo hice como proyecto final para obtener mi certificacion de desarrollador  java.
+El juego ya tiene un archivo.jar para ser ejecutado que esta dentro de la carpeta dist, al ser ejecutado si la pantalla es muy chica la nave del jugador puede que no sea visible, no se porque en algunas computadoras el ejecutable no anda y en otras si, si esto pasa van a tener que abrir el proyecto desde el IDE Netbeans , puede que te salga una alerta en el proyecto cuando lo carges al netbeans , si esto pasa es porque tenes que exportar un archivo .jar a la libreria dicho archivo es el jLayer que esta dentro de la carpeta dist solo hay que agregarlo y va andar bien.
